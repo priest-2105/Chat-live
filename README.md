@@ -4,7 +4,7 @@
 
 ### Requirements
 - [Nodejs](https://nodejs.org/en/download)
-- [Mongodb](https://www.mongodb.com/docs/)
+- [Mongodb](https://www.mongodb.com/docs/m/)
 
 Both should be installed and make sure mongodb is running.
 ### Installation
